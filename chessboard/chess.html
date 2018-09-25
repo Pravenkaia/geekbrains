@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Шахматная доска</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div id="board" class="container back"></div>
+    
+    <div class="container">
+        <div class="buttons">
+          
+            <button id="res"   onclick="toReset('board');">&#10006;</button>
+            <button id="but1"  onclick="createChessBoard('board');">Нарисовать доску</button>  
+            <button id="but2"  onclick="toSetNumbers();">Подписать поля</button>
+            <button id="but3"  onclick="toSetPices();">Расставить фигуры</button>        
+
+        </div>
+    </div>
+    
+    
+
+    <script src="js/script.js"></script>   
+</body>
+</html>
