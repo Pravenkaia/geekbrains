@@ -1,1 +1,1 @@
-print(Good Buy")
+print("Good Buy")
