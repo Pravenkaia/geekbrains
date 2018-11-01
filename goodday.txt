@@ -1,7 +1,5 @@
 print("Good DAY")
 print("Good DAY")
 print("Good DAY")
-print("Good DAY")
-print("Good DAY")
-print("Good DAY")
+
 !!!!!!!!!!!
